@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Peyjee的后花园
 subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+description: <div style="line-height:1.38;margin:0 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">欢迎来到本帅的博客！这里有我胡侃乱扯的<b style="color:#fff">产品评测</b>，天马行空的<b style="color:#fff">设计创意</b>，以及那些我用谷歌翻译翻了又翻的<b style="color:#fff">奇葩文章</b>。在这里，还能看到一个大学生如何每天都在臭屁中度过。damn！</div>
+keywords: '学习，Butterfly,Hexo,'
+author: Peyjee
+language: zh-CN
 timezone: ''
 
 # URL
