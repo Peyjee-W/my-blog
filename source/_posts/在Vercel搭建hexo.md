@@ -1,13 +1,33 @@
 ---
-main_color: "#6C737C"
 title: "在Vercel上搭建Hexo博客的详细教程"
-date: 2024-09-14 10:00:00  # 文章首次发布时间
-updated: 2024-09-14 12:30:00  # 文章的最后更新时间
-author: "Peyjee"
-cover: "https://kk.clock8863.com/d/one/%E5%9B%BE%E5%BA%8A/blog/vercel-hexo.webp"  # 新的封面图链接
+date: "2024-09-14 10:00:00"
+updated: "2024-09-14 12:30:00"
 tags: ["Hexo", "Vercel", "博客搭建", "教程", "静态网站"]
 categories: ["技术教程", "Web开发"]
+keywords: 
+description: "详细的Vercel搭建Hexo博客教程，从环境配置、项目初始化到最终部署，让你快速创建个人博客。"
+top_img: 
+comments: true
+cover: "https://kk.clock8863.com/d/one/%E5%9B%BE%E5%BA%8A/blog/vercel-hexo.webp"
+toc: true
+toc_number: false
+toc_style_simple: false
+copyright: true
+copyright_author: "Peyjee"
+copyright_author_href: 
+copyright_url: 
+copyright_info: 
+mathjax: false
+katex: false
+aplayer: false
+highlight_shrink: true
+aside: true
+swiper_index: 1
+top_group_index: 1
+background: "#6C737C"
+main_color: "#6C737C"
 excerpt: "详细的Vercel搭建Hexo博客教程，从环境配置、项目初始化到最终部署，让你快速创建个人博客。"
+
 ---
 
 

@@ -1,5 +1,9 @@
 ---
-title: 关于本人
+title: 关于
+date: 2021-03-30 15:57:51
+aside: false
+top_img: false
+background: "#f8f9fe"
+comments: false
 type: "about"
-date: 2024-08-09 21:02:26
 ---

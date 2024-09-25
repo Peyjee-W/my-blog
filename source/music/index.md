@@ -1,5 +1,9 @@
 ---
 title: 音乐馆
-type: "music"
-date: 2024-08-09 21:02:26
+date: 2021-04-24 21:41:30
+type: music
+aplayer: true
+top_img: false
+comments: false
+aside: false
 ---
