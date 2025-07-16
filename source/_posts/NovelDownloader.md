@@ -15,7 +15,7 @@ keywords:
   - Guide
   - Software Tool
 description: "A comprehensive guide to using NovelDownloader for efficient novel downloading."
-cover: https://kk.peyjee.com/d/one/%E5%9B%BE%E5%BA%8A/blog/64f9e162ae1cd470b86c1579.jpg
+cover: https://i.postimg.cc/x8zbDyyM/64f9e162ae1cd470b86c1579.jpg
 toc: true
 toc_number: true
 toc_style_simple: false
